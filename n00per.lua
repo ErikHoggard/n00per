@@ -1,5 +1,5 @@
 -- softcut study 1: basics
---
+-- e
 -- E1 rate
 -- E2 loop start
 -- E3 loop end
